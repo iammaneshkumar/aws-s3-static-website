@@ -18,7 +18,7 @@ This is a simple static website hosted on AWS S3 Free Tier.
 3. Files uploaded to the S3 bucket.
 
 ## Live Website
-[Visit Website](http://manesh-free-static-site-001.s3-website.ap-south-1.amazonaws.com/)
+[Visit Website](https://d31utt7dm1a9oj.cloudfront.net/)
 
 ## Author
 Manesh Kumar
